@@ -1,0 +1,17 @@
+body
+ {
+ 	margin:0;
+ 	padding: 0;
+ 	text-align: center;
+ 	background-color: #fcf8e8;
+ }
+
+h1 {
+	color: #a9294f;
+	font-size:4rem;
+}
+
+p{
+	color: #c7753d;
+	font-size: 1.5rem;
+}
